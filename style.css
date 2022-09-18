@@ -18,8 +18,8 @@ body{
 
 }
 .content{
-    width: 185px;
-    height: 320px;
+    width: 280px;
+    height: 490px;
     background-color: hsl(0, 0%, 100%); 
     padding: 10px;
     border-radius: var(--radius);
@@ -34,11 +34,9 @@ body{
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
-.text p{
-    font-size: 12px;
-}
+
 .text p.strong{
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 700;
     color: black;
 }
